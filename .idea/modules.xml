@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GWSJinnUtils.iml" filepath="$PROJECT_DIR$/GWSJinnUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datadebuglibrary/datadebuglibrary.iml" filepath="$PROJECT_DIR$/datadebuglibrary/datadebuglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designdebuglibrary/designdebuglibrary.iml" filepath="$PROJECT_DIR$/designdebuglibrary/designdebuglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewdebuglibrary/viewdebuglibrary.iml" filepath="$PROJECT_DIR$/viewdebuglibrary/viewdebuglibrary.iml" />
+    </modules>
+  </component>
+</project>
